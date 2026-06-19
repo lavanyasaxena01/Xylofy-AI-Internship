@@ -86,19 +86,6 @@ The following visualizations were created:
 
 Real estate businesses should focus on properties with larger areas and premium amenities such as multiple bathrooms, parking facilities, and air conditioning, as these features have the strongest impact on market value.
 
-## Folder Structure
-
-HousePricePrediction_LavanyaSaxena/
-
-├── XylofyInternship_Project1.ipynb
-├── Housing.csv
-├── README.md
-├── Project Summary.pdf
-└── charts
-    ├── price_distribution.png
-    ├── correlation_heatmap.png
-    └── actual_vs_predicted.png
-
 ## Author
 
 **Lavanya Saxena**
